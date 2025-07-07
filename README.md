@@ -1,4 +1,4 @@
-### <div align="center">I'm Mert, a full time frontend developer 👨‍💻 working since 2019 🚀</div>  
+### <div align="center">I'm Mert, a full time web developer 👨‍💻 working since 2019 🚀</div>  
   
 
 - 💻 Currently improving myself on Next.js 15  
